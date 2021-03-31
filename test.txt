@@ -2,4 +2,6 @@ Executing Octo pack command!
 
 Executing Octo Push command!
 
-Executing Octo Creat-Release command!
+Executing Octo Create-Release command!
+
+Executing Octo Deploy-Release command!
